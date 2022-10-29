@@ -1,3 +1,8 @@
+***
+*** SOURCE CODE for original Acey Ducey game  in Basic.
+*** copied from https://github.com/GReaperEx/bcg/blob/master/aceyducey.bas
+***
+
 10 PRINT TAB(26);"ACEY DUCEY CARD GAME"
 20 PRINT TAB(15);"CREATIVE COMPUTING  MORRISTOWN, NEW JERSEY"
 21 PRINT
